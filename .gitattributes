@@ -1,0 +1,6 @@
+oregon_fires_weather_merged.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.ipynb !text !filter !merge !diff
+*.py !text !filter !merge !diff
+*.md !text !filter !merge !diff
+.gitignore !text !filter !merge !diff

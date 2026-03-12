@@ -1,0 +1,7 @@
+# Ignored files 
+
+.env 
+.DS_Store
+oregon_weather/
+isd-history.csv
+*.zip
