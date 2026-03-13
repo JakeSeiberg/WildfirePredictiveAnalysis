@@ -4,4 +4,5 @@
 .DS_Store
 oregon_weather/
 isd-history.csv
+*.geojson
 *.zip
